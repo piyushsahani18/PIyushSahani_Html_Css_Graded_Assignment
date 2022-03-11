@@ -1,0 +1,24 @@
+.container {
+    max-width: 800px;
+    margin: 10vh auto 0 auto;
+    box-shadow: 0px 4px 8px 1px #8888; /* Whatever I do, I am not able to add this shadow */
+}
+
+input {
+    border:none;
+    border-bottom: 2px solid gray;
+}
+
+.sub-entry {
+    width: 50%;
+    float: left;
+    max-height: 700px;
+    box-shadow: 0px 4px 8px 1px #8888;
+}
+
+img {
+    max-width: 400px;
+    min-height: 590px; /* This height is equal to the form */
+    position: fixed;
+    box-shadow: 0px 4px 8px 1px #8888;
+}
